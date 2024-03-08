@@ -11,7 +11,8 @@
     "url": "git+https://github.com/umadleets/learning-nodejs.git"
   },
   "dependencies": {
-    "@jjcity/ttviews": "1.0.0"
+    "@jjcity/ttviews": "1.0.0",
+    "@pakforlay/add-watermark": "1.0.8",
   },
   "keywords": [
     "nodejs"
