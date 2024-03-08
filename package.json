@@ -1,0 +1,25 @@
+{
+  "name": "@umadleets/learning-nodejs",
+  "version": "1.0.0",
+  "description": "simple code for learning nodejs with complete task testnet from Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umadleets/learning-nodejs.git"
+  },
+  "dependencies": {
+    "@jjcity/ttviews": "1.0.0"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "umadleets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umadleets/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/umadleets/learning-nodejs#readme"
+}
