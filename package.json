@@ -1,6 +1,6 @@
 {
   "name": "@umadleets/learning-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple code for learning nodejs with complete task testnet from Tea",
   "main": "index.js",
   "scripts": {
